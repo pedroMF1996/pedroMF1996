@@ -12,6 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style type="text/css">
+    .nome{
+        position:relative;
+        color: #fff;
+        font-size: 2.5rem;
+    }
+
+    .nome span{ 
+        --delay: calc(var(--duration)*var(--i));
+        filter:blur(1000px);
+        display: inline-block;
+        animation: var(--duration) opacityAnimation var(--delay) forwards;
+    }
+
+    .nome span::selection{
+       color: #9B30F9;
+    }
+    @keyframes opacityAnimation{
+        from{
+            filter:opacity(0%);
+        }
+        to{
+            filter:opacity(100%);
+        }
+    }
+</style>
 
 <p class="nome"></p>
 I'm a software developer, currently working with Angular and .Net Core allocated in a stockbroker company.
@@ -80,29 +106,3 @@ Currently working with Angular, .NET Core at a software house company. One of my
   }
 )("Hi, I'm Pedro.");
 </script>
-<style type="text/css">
-    .texto{
-        position:relative;
-        color: #fff;
-        font-size: 2.5rem;
-    }
-
-    .texto span{ 
-        --delay: calc(var(--duration)*var(--i));
-        filter:blur(1000px);
-        display: inline-block;
-        animation: var(--duration) opacityAnimation var(--delay) forwards;
-    }
-
-    .texto span::selection{
-       color: #9B30F9;
-    }
-    @keyframes opacityAnimation{
-        from{
-            filter:opacity(0%);
-        }
-        to{
-            filter:opacity(100%);
-        }
-    }
-</style>
