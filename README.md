@@ -48,9 +48,6 @@ Currently working with Angular, .NET Core at a software house company. One of my
     </a> 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMF1996)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [angular_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=typescript
 [css_3]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=css
 [nodejs_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=javascript
