@@ -21,13 +21,13 @@ Currently working with Angular, .NET Core at a software house company. One of my
 #### Technologies of Interest
 <div style="display: inline_block"><br>
 
-    [<img src="https://user-images.githubusercontent.com/25344723/113509430-e438eb80-952b-11eb-9826-6c86e83473d8.png" height="35" alt="Angular" />][angular_link]
-    [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="35" alt="Typescript" />][angular_link]
-    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt="dotnetcore" />][csharp_link]
-    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="35" alt="css3"/>][css_3]
-    [<img src="https://user-images.githubusercontent.com/25344723/113509706-7f7e9080-952d-11eb-8b35-6a5bfd4cb0e2.png" height="35" alt="nodejs" />][nodejs_link]
-    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="35" alt="react"/>][react_link]
-    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html"/>][elixir_link]
+   [<img src="https://user-images.githubusercontent.com/25344723/113509430-e438eb80-952b-11eb-9826-6c86e83473d8.png" height="35" alt="Angular" />][angular_link]
+   [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="35" alt="Typescript" />][angular_link]
+   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt="dotnetcore" />][csharp_link]
+   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="35" alt="css3"/>][css_3]
+   [<img src="https://user-images.githubusercontent.com/25344723/113509706-7f7e9080-952d-11eb-8b35-6a5bfd4cb0e2.png" height="35" alt="nodejs" />][nodejs_link]
+   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="35" alt="react"/>][react_link]
+   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html"/>][elixir_link]
 
 </div>
   
@@ -37,8 +37,8 @@ Currently working with Angular, .NET Core at a software house company. One of my
     <a href="https://instagram.com/pedroMF1996" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
-    <a href = "mailto:pmfrp@hotmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a href = "mailto:pmfrp@hotmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/pedro-martins-falleiros-ab518a187/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -56,3 +56,4 @@ Currently working with Angular, .NET Core at a software house company. One of my
 [nodejs_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=javascript
 [csharp_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=c%23
 [elixir_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=elixir
+[react_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=react
