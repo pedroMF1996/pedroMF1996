@@ -34,7 +34,7 @@ Currently working with Angular, .NET Core at a software house company. One of my
   ##
  
 <div> 
-    <a href="https://instagram.com/pedroMF1996" target="_blank">
+    <a href="https://www.instagram.com/pedromfrp/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href = "mailto:pmfrp@hotmail.com" target="_blank">
