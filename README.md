@@ -49,7 +49,7 @@ Currently working with Angular, .NET Core at a software house company. One of my
 </div>
 
 [angular_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=typescript
-[css_3]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=css
+[css_3]: https://codepen.io/pedro-martins-falleiros
 [nodejs_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=javascript
 [csharp_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=c%23
 [elixir_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=elixir
