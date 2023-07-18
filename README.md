@@ -2,10 +2,19 @@
 I'm a software developer, currently working with Angular and .Net Core allocated in a stockbroker company.
 
 #### About me
-Hi, I'm Pedro.
+Greetings,
 
-Currently working with Angular, .NET Core at a software house company. One of my favorite things to do on my free time (besides playing ukulele and guitar) is to build new architectures in order to challenge myself with new development patterns. Also, I'm very interested in learning new layout techniques like parallaxes for example.
+Allow me to introduce myself. My name is Pedro, and I come from Ribeirão Preto, São Paulo. I am a software developer with four years of education in the field and three years of professional experience. My passion for technology began when I enrolled in the ADS (Analysis and Systems Development) course at university, where I created my first program using the programming language C - a hash game (tic-tac-toe) that introduced me to the world of programming and software development. Ever since, I have been driven by a thirst for knowledge, seeking extracurricular courses in areas such as Object-Oriented Development, Test-Driven Development, and Artificial Intelligence.
 
+My most recent work experience was at a financial cooperative, where I was involved in software development for their operations. In this role, I used Angular, Angular Material, SCSS, and Tailwind for front-end development, and C#, ASP.NET Core, DDD, and CQRS for the back-end. I also gained experience in unit testing and automated testing. Prior to that, I worked at a software development company where I contributed to various projects for clients in different industries. One of these clients was a brokerage firm, where I worked on a trading platform. This project involved the use of technologies such as C#, .NET Core, Entity Framework Core, DDD, and TDD. I also gained experience in front-end technologies such as Angular, SCSS, and Bootstrap.
+
+My areas of interest in software development include Object-Oriented Development, Test-Driven Development, Reactive Programming, and Event-Driven Architecture. I have experience with a variety of technologies, including programming languages such as C# (Framework/Core), JavaScript, and TypeScript. Additionally, I am familiar with testing frameworks like xUnit and Jasmine. Furthermore, I have worked with databases such as Oracle, PostgreSQL, MySQL, MongoDB, and MSSQL, and I am proficient in creating UML diagrams using yEd.
+
+I am enthusiastic about expanding my knowledge and expertise in the field of software development and look forward to contributing to exciting projects in the future.
+
+Best regards,
+
+Pedro
 
 #### Spoken languages
 
