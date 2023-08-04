@@ -1,7 +1,5 @@
 ### Hello, I'm Pedro Falleiros.
-I'm a Systems Developer Analyst.
 
-#### About me
 Greetings,
 
 Allow me to introduce myself. My name is Pedro, and I come from Ribeirão Preto, São Paulo. I am a software developer with four years of education in the field and three years of professional experience. My passion for technology began when I enrolled in the ADS (Analysis and Systems Development) course at university, where I created my first program using the programming language C - a hash game (tic-tac-toe) that introduced me to the world of programming and software development. Ever since, I have been driven by a thirst for knowledge, seeking extracurricular courses in areas such as Object-Oriented Development, Test-Driven Development, and Artificial Intelligence.
