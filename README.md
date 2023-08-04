@@ -1,5 +1,5 @@
 ### Hello, I'm Pedro Falleiros.
-I'm a Systems Developer Analyst, currently working with Angular and .Net Core allocated in a stockbroker company.
+I'm a Systems Developer Analyst.
 
 #### About me
 Greetings,
