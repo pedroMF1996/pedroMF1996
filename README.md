@@ -77,3 +77,5 @@
 [csharp_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=c%23
 [elixir_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=elixir
 [react_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=react
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pedroMF1996&label=Profile%20views&color=0e75b6&style=flat" alt="pedroMF1996" /> </p>
