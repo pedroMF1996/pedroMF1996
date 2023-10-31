@@ -1,4 +1,4 @@
-### Hello, I'm Pedro Falleiros.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4668DC&background=00000034&center=true&random=false&width=435&lines=Hi%2C+I'm+Pedro.;I'm+an+Software+Analyst+Developer.+;Expert+in+C%23+and+Angular+2%2B.;Be+welcome!)](https://git.io/typing-svg)
 
 Greetings,
 
