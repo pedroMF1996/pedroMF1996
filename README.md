@@ -23,7 +23,7 @@
   Let's just say I'm all in for expanding my skills and taking on exciting projects. 🤓
  </p>
  <p>
-  Catch you later,  
+  See you later,  
  </p>
  <p>
   Pedro 👍
