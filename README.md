@@ -1,10 +1,9 @@
-
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=68217A&center=true&random=false&width=435&lines=Hi%2C+I'm+Pedro.;I'm+an+Software+Analyst+Developer.+;Expert+in+C%23+and+Angular+2%2B.;Be+welcome!" alt="Typing SVG" />
 </p>
 
 <details open> 
-  <summary><h2>About me</h2></summary>
+  <summary><h2>About me 😁</h2></summary>
 
 <div>
  <p>
@@ -36,7 +35,7 @@
 
 <details open> 
   <summary>
-   <h2>Spoken languages</h2>
+   <h2>Spoken languages 🗨️</h2>
   </summary>
  <ul>
   <li>Portuguese (C2)</li>
@@ -44,15 +43,20 @@
  </ul>
 </details>
 
+<details open>
+ <summary>
+  <h2>Github Analytics ⚙️</h2>
+ </summary>
  <div class="center">
   <a href="https://github.com/pedroMF1996">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroMF1996&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMF1996&layout=compact&langs_count=7&theme=buefy"/>
 </div>
+</details>
 
 <details open> 
   <summary>
-   <h2>Technologies of Interest</h2>
+   <h2>Technologies of Interest 🤓</h2>
   </summary>
  
   <div>
