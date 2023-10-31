@@ -88,6 +88,9 @@
 
 <footer>
  <div align="left"> 
+     <a href="https://codepen.io/pedro-martins-falleiros" target="_blank">
+         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
+     </a> 
      <a href="https://www.instagram.com/pedromfrp/" target="_blank">
          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
      </a>
