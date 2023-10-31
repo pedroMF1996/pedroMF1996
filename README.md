@@ -55,7 +55,7 @@
    <h2>Technologies of Interest</h2>
   </summary>
  
-  <div style="display: inline_block">
+  <div>
    <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=typescript"> 
     <img src="https://user-images.githubusercontent.com/25344723/113509430-e438eb80-952b-11eb-9826-6c86e83473d8.png" height="35" alt="Angular" /> 
    </a>
