@@ -3,29 +3,42 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=68217A&center=true&random=false&width=435&lines=Hi%2C+I'm+Pedro.;I'm+an+Software+Analyst+Developer.+;Expert+in+C%23+and+Angular+2%2B.;Be+welcome!" alt="Typing SVG" />
 </p>
 
-
-Greetings,
-
-Allow me to introduce myself. My name is Pedro, and I come from Ribeirão Preto, São Paulo. I am a software developer with four years of education in the field and three years of professional experience. My passion for technology began when I enrolled in the ADS (Analysis and Systems Development) course at university, where I created my first program using the programming language C - a hash game (tic-tac-toe) that introduced me to the world of programming and software development. Ever since, I have been driven by a thirst for knowledge, seeking extracurricular courses in areas such as Object-Oriented Development, Test-Driven Development, and Artificial Intelligence.
-
-My most recent work experience was at a financial cooperative, where I was involved in software development for their operations. In this role, I used Angular, Angular Material, SCSS, and Tailwind for front-end development, and C#, ASP.NET Core, DDD, and CQRS for the back-end. I also gained experience in unit testing and automated testing. Prior to that, I worked at a software development company where I contributed to various projects for clients in different industries. One of these clients was a brokerage firm, where I worked on a trading platform. This project involved the use of technologies such as C#, .NET Core, Entity Framework Core, DDD, and TDD. I also gained experience in front-end technologies such as Angular, SCSS, and Bootstrap.
-
-My areas of interest in software development include Object-Oriented Development, Test-Driven Development, Reactive Programming, and Event-Driven Architecture. I have experience with a variety of technologies, including programming languages such as C# (Framework/Core), JavaScript, and TypeScript. Additionally, I am familiar with testing frameworks like xUnit and Jasmine. Furthermore, I have worked with databases such as Oracle, PostgreSQL, MySQL, MongoDB, and MSSQL, and I am proficient in creating UML diagrams using yEd.
-
-I am enthusiastic about expanding my knowledge and expertise in the field of software development and look forward to contributing to exciting projects in the future.
-
-Best regards,
-
-Pedro
+<div>
+ <p>
+  Hey there! 👋 I'm Pedro from Ribeirão Preto, São Paulo, and I'm all about the tech world! 🚀
+ </p>
+ <p>
+  My journey started with a tic-tac-toe game in C during my uni days, and I've been hooked on programming ever since. I've got four years of education and three years of pro experience in software development.
+ </p>
+ <p>
+  I've dabbled in everything from front-end (Angular, SCSS, Tailwind) to back-end (C#, ASP.NET Core, DDD, CQRS), and I've even explored the world of testing.
+ </p>
+ <p>
+  I've been part of cool projects, like a trading platform for a brokerage firm and more, using tech like C#, .NET Core, Entity Framework Core, and more. Plus, I've got a knack for databases like Oracle, PostgreSQL, MySQL, MongoDB, and MSSQL.
+ </p>
+ <p>
+  My interests include Object-Oriented Development, Test-Driven Development, Reactive Programming, and Event-Driven Architecture. I'm no stranger to languages like C#, JavaScript, and TypeScript, and I know my way around tools like xUnit and Jasmine.
+ </p>
+ <p>
+  Let's just say I'm all in for expanding my skills and taking on exciting projects. 🤓
+ </p>
+ <p>
+  Catch you later,  
+ </p>
+ <p>
+  Pedro 👍
+ </p>
+</div>
 
 #### Spoken languages
 
 - Portuguese (C2)
 - English (B2)
 
- <div>
+ <div class="center">
   <a href="https://github.com/pedroMF1996">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMF1996&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroMF1996&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMF1996&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 #### Technologies of Interest
