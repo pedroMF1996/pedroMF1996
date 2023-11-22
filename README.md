@@ -49,7 +49,7 @@
  </summary>
  <div align="left">
   
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedroMF1996)](https://git.io/awesome-stats-card)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedroMF1996?cardType=level-alternate&theme=dracula&preferLogin=false&Background=18022C)](https://git.io/awesome-stats-card)
 </div>
 </details>
 
