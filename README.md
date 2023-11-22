@@ -58,30 +58,28 @@
    <h2>Technologies of Interest 🤓</h2>
   </summary>
   
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMF1996&layout=compact&langs_count=7&theme=buefy"/>
-  </div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMF1996&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
   
   <div>
+   <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=c%23">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt="dotnetcore" />
+   </a>
    <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=typescript"> 
     <img src="https://user-images.githubusercontent.com/25344723/113509430-e438eb80-952b-11eb-9826-6c86e83473d8.png" height="35" alt="Angular" /> 
+   </a> 
+   <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=react">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="35" alt="react"/>
+   </a>   
+   <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=javascript"> 
+    <img src="https://user-images.githubusercontent.com/25344723/113509706-7f7e9080-952d-11eb-8b35-6a5bfd4cb0e2.png" height="35" alt="nodejs" />
    </a>
    <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=typescript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="35" alt="Typescript" />
    </a> 
-   <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=c%23">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt="dotnetcore" />
-   </a> 
    <a href="https://codepen.io/pedro-martins-falleiros">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="35" alt="css3"/>
-   </a> 
-   <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=javascript"> 
-    <img src="https://user-images.githubusercontent.com/25344723/113509706-7f7e9080-952d-11eb-8b35-6a5bfd4cb0e2.png" height="35" alt="nodejs" />
-   </a>
-   <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=react">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="35" alt="react"/>
    </a>
    <a href="https://codepen.io/pedro-martins-falleiros">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html"/>
