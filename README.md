@@ -47,10 +47,9 @@
  <summary>
   <h2>Github Analytics ⚙️</h2>
  </summary>
- <div class="center">
-  <a href="https://github.com/pedroMF1996">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroMF1996&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMF1996&layout=compact&langs_count=7&theme=buefy"/>
+ <div align="left">
+  
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pedroMF1996)](https://git.io/awesome-stats-card)
 </div>
 </details>
 
@@ -58,7 +57,13 @@
   <summary>
    <h2>Technologies of Interest 🤓</h2>
   </summary>
- 
+  
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMF1996&layout=compact&langs_count=7&theme=buefy"/>
+  </div>
+
+##
+  
   <div>
    <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=typescript"> 
     <img src="https://user-images.githubusercontent.com/25344723/113509430-e438eb80-952b-11eb-9826-6c86e83473d8.png" height="35" alt="Angular" /> 
