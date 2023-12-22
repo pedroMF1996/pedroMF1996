@@ -57,11 +57,7 @@
   <summary>
    <h2>Technologies of Interest 🤓</h2>
   </summary>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroMF1996&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-##
-  
+ 
   <div>
    <a href="https://github.com/pedroMF1996?tab=repositories&q=&type=&language=c%23">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="35" alt="dotnetcore" />
