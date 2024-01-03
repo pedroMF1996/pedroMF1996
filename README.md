@@ -68,12 +68,6 @@
    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="35" alt="css" />][pencode_link]
    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html" />][pencode_link]
    
-
-   [csharp_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=c%23
-   [angular_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=typescript
-   [nodejs_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=javascript
-   [pencode_link]: https://codepen.io/pedro-martins-falleiros
-  
   </div>
 </details> 
 
@@ -81,18 +75,21 @@
 
 <footer>
  <div align="left"> 
-     <a href="https://codepen.io/pedro-martins-falleiros" target="_blank">
-         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
-     </a> 
-     <a href = "mailto:pmfrp@hotmail.com" target="_blank">
-         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-     </a>
-     <a href="https://www.linkedin.com/in/pedro-martins-falleiros-ab518a187/" target="_blank">
-         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-     </a> 
+
+   [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" alt="codepen">][pencode_link]
+   [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" alt="email"/>][email_link]
+   [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="html" />][pencode_link]
+  
  </div>
  
  <div align="right"> 
   <img src="https://komarev.com/ghpvc/?username=pedroMF1996&label=Profile%20views&color=68217A&style=flat" alt="pedroMF1996" /> 
  </div>
 </footer>
+
+[csharp_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=c%23
+[angular_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=typescript
+[nodejs_link]: https://github.com/pedroMF1996?tab=repositories&q=&type=&language=javascript
+[pencode_link]: https://codepen.io/pedro-martins-falleiros
+[email_link]: mailto:pmfrp@hotmail.com
+[linkedin_link]: https://www.linkedin.com/in/pedro-martins-falleiros/
