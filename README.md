@@ -86,8 +86,9 @@
 
 <footer>
  <div align="left"> 
-
-   [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" alt="codepen">][pencode_link]
+  
+  ### Contact 📨
+   
    [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" alt="email"/>][email_link]
    [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="html" />][linkedin_link]
   
