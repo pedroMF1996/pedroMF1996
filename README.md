@@ -2,7 +2,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=68217A&center=true&random=false&width=435&lines=Hi%2C+I'm+Pedro.;I'm+an+Software+Analyst+Developer.+;Expert+in+C%23+and+Angular+2%2B.;Be+welcome!" alt="Typing SVG" />
 </p>
 
-<details close> 
+<details open> 
   <summary><h2>About me 😁</h2></summary>
 
 <div>
@@ -33,7 +33,7 @@
 </div>
 </details>
 
-<details close> 
+<details open> 
   <summary>
    <h2>Spoken languages 🗨️</h2>
   </summary>
@@ -70,6 +70,10 @@
    
   </div>
 </details> 
+
+### Repositório com um projeto usando .NET, Entity Framework, DDD, CQRS, Event Sourcing, migrations, etc. Confira!
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pedroMF1996&repo=Balta.Localizacao.MVVM&bg_color=ffffff00&text_color=faf5f5&title_color=8C0CFF)](https://github.com/pedroMF1996/Balta.Localizacao.MVVM)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pedroMF1996&repo=ASP.NETCoreEnterpriseApplications&bg_color=ffffff00&text_color=faf5f5&title_color=8C0CFF)](https://github.com/pedroMF1996/ASP.NETCoreEnterpriseApplications)
 
 ##
 
