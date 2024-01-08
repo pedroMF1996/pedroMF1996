@@ -71,7 +71,7 @@
   </div>
 </details> 
 
-### Repositório com um projeto usando .NET, Entity Framework, DDD, CQRS, Event Sourcing, migrations, etc. Confira!
+### Repository with a project using .NET, Entity Framework, DDD, CQRS, Event Sourcing, migrations, etc. Check it out!
 [![](https://github-readme-stats.vercel.app/api/pin/?username=pedroMF1996&repo=Balta.Localizacao.MVVM&bg_color=ffffff00&text_color=faf5f5&title_color=8C0CFF)](https://github.com/pedroMF1996/Balta.Localizacao.MVVM)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=pedroMF1996&repo=ASP.NETCoreEnterpriseApplications&bg_color=ffffff00&text_color=faf5f5&title_color=8C0CFF)](https://github.com/pedroMF1996/ASP.NETCoreEnterpriseApplications)
 
