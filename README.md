@@ -82,8 +82,6 @@
   
 </details>
 
-##
-
 <footer>
  <div align="left"> 
   
