@@ -6,31 +6,26 @@
   <summary><h2>About me 😁</h2></summary>
 
 <div>
- <p>
-  Hey there! 👋 I'm Pedro from Ribeirão Preto, São Paulo, and I'm all about the tech world! 🚀
- </p>
- <p>
-  My journey started with a tic-tac-toe game in C during my uni days, and I've been hooked on programming ever since. I've got four years of education and three years of pro experience in software development.
- </p>
- <p>
-  I've dabbled in everything from front-end (Angular, SCSS, Tailwind) to back-end (C#, ASP.NET Core, DDD, CQRS), and I've even explored the world of testing.
- </p>
- <p>
-  I've been part of cool projects, like a trading platform for a brokerage firm and more, using tech like C#, .NET Core, Entity Framework Core, and more. Plus, I've got a knack for databases like Oracle, PostgreSQL, MySQL, MongoDB, and MSSQL.
- </p>
- <p>
-  My interests include Object-Oriented Development, Test-Driven Development, Reactive Programming, and Event-Driven Architecture. I'm no stranger to languages like C#, JavaScript, and TypeScript, and I know my way around tools like xUnit and Jasmine.
- </p>
- <p>
-  Let's just say I'm all in for expanding my skills and taking on exciting projects. 🤓
- </p>
- <p>
-  See you later,  
- </p>
- <p>
-  Pedro 👍
- </p>
-</div>
+
+- ## Background:
+  - Four years of education
+  - Three years of professional experience in software development
+
+- ## Technical Proficiency:
+  - Front-end experience with Angular, SCSS, and Tailwind
+  - Back-end skills in C#, ASP.NET Core, DDD, and CQRS
+  - Exploration of testing methodologiesL
+
+- ## Interests:
+  - Object-Oriented Development
+  - Test-Driven Development
+  - Reactive Programming
+  - Event-Driven Architecture
+
+- ## Language and Tool Proficiency:
+  - Familiar with C#, JavaScript, and TypeScript
+  - Experience with tools like xUnit and Jasmine
+    
 </details>
 
 <details open> 
