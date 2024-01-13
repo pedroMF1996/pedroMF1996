@@ -12,7 +12,7 @@
   - Three years of professional experience in software development
 
 - ## Technical Proficiency:
-  - Front-end experience with Angular, SCSS, and Tailwind
+  - Front-end experience with Angular, SCSS/SASS, and Tailwind
   - Back-end skills in C#, ASP.NET Core, DDD, and CQRS
   - Exploration of testing methodologiesL
 
