@@ -48,6 +48,22 @@
 </div>
 </details>
 
+<details open>
+ <summary>
+  <h2>Github Stats ⚙️</h2>
+ </summary>
+ <div align="left">
+  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+  
+</div>
+</details>
+
+
+
 <details open> 
   <summary>
    <h2>Technologies of Interest</h2>
